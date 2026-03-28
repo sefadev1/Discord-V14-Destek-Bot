@@ -1,0 +1,20 @@
+{
+  "name": "gelismis-destek-botu",
+  "version": "1.0.0",
+  "description": "Discord icin embed loglu, DM destekli gelismis destek botu",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "ticket",
+    "support",
+    "bot"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
